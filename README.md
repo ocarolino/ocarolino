@@ -1,10 +1,8 @@
 # Olá 👋
 
-Eu me chamo **Matheus Carolino** e sou do **Rio de Janeiro, Brasil**.
+Eu me chamo **Matheus Carolino** e sou do **Rio de Janeiro, Brasil**. Formado em **Ciência da Computação** pela **UNISUAM**, mas no momento não trabalho na área.
 
-Formado em **Ciência da Computação** pela **UNISUAM**, mas no momento não trabalho na área.
-
-Tenho conhecimento em **C#** para aplicações desktop e **PHP** para aplicações web. No momento buscando aprender tecnologias de front end, como **React** e back end em **C#** para um melhor desenvolvimento profissional.
+Tenho conhecimento em **C#** para aplicações desktop e familiaridade com **PHP, HTML, CSS e JavaScript** para aplicações web. No momento buscando aprender o lado do backend em **C#** para um melhor desenvolvimento profissional.
 
 # GitHub Stats
 
